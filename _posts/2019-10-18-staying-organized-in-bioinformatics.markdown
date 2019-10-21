@@ -41,4 +41,4 @@ I've found the best way to track productivity is a daily log/ task list. I have 
 I've found that this reminds me of what I was doing yesterday, how productive I was/how to be more productive the next day, and what next steps I need to take to stay on task.
 
 ## 3. **Version Control**
-Version control is your **number one friend**. I have gone through a hard drive failure, accidental rm -rf shenanigans, you name it. And every time my ass was saved purely by the fact that I could go to gitlab and review the history and find lost files. **LOSING TIME IN THE FORM OF DATA LOSS IS A MISTAKE YOU ONLY (WANT TO) MAKE ONCE**.
+Version control is your **number one friend**. I have gone through a hard drive failure, accidental rm -rf shenanigans, you name it. And every time my ass was saved purely by the fact that I could go to gitlab and review the history and find lost files. **Losing data because of laziness is something you only want to do once**.

@@ -7,7 +7,7 @@ layout: default
 # Welcome!
 
 ## About Me
-I am currently a bioinformatics research tech at the La Jolla Institute for Immunology where I work in the Peters Lab. My primary focus has been on how we can improve ways of estimating expression of HLA genes from bulk RNA-Seq data. In my free time, I enjoy playing video games, programming, hiking, drinking beer and hanging out with my cat.
+I am currently a bioinformatics research tech at the La Jolla Institute for Immunology where I work in the Peters Lab. My primary focus has been on how we can improve ways of estimating expression of HLA genes from bulk RNA-Seq data. In my free time, I enjoy playing video games, programming, hiking, and brewing beer.
 
 ## Projects
 ### ARC
