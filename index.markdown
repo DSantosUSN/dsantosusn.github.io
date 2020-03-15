@@ -7,17 +7,18 @@ layout: default
 # Welcome!
 
 ## About Me
-I am currently a bioinformatics research tech at the La Jolla Institute for Immunology where I work in the Peters Lab. My primary focus has been on how we can improve ways of estimating expression of HLA genes from bulk RNA-Seq data. In my free time, I enjoy playing video games, programming, hiking, and brewing beer.
-
+I am currently a bioinformatician at the La Jolla Institute for Immunology where I work in the Peters Lab.
+Professionally I am interested in all aspects of computational immunology, but more specifically T Cell Receptor biology, everything related to HLA, and RNA-Seq pipeline development. Outside of work you can find me playing old school RPGs, brewing beer, or enjoying a good book. (I personally recommend [The Stoic Philosophy of Seneca](https://www.amazon.com/Stoic-Philosophy-Seneca-Essays-Letters/dp/0393004597).)
 ## Projects
 ### ARC
-ARC (antigen receptor classifier) is a Python module used to classify unknown protein sequences as immune related molecules (MHC, T Cell Receptor, Antibody). It accomplishes this task by using hidden markov models trained from IMGT data. ARC lives on the IEDB github [here](https://github.com/iedb/arc)
+ARC (antigen receptor classifier) is a Python module used to classify unknown protein sequences as immune related molecules (MHC, T Cell Receptor, Antibody). It accomplishes this task by using hidden markov models trained from IMGT data. ARC lives on the IEDB github [here](https://github.com/iedb/arc).
 ### HLAQuant
-HLAQuant is a pipeline designed to quantify HLA allele specific expression from bulk RNA-Sequencing data. Currently, the pipeline is unavailable pending publication, however, a Python module is ready for distribution.
+HLAQuant is a pipeline designed to quantify HLA allele specific expression from bulk RNA-Sequencing data. You can find the repository [here](https://github.com/acrinklaw/HLAQuant). HLAQuant is also available through PyPi.
 
 ## Publications
 **Nelson et al. (2014)**. Complete Genome Sequence for the Fusarium Head Blight Antagonist Bacillus amyloliquefaciens Strain TrigoCor 1448. Genome announcements. 2. [10.1128/genomeA.00219-14.](https://mra.asm.org/content/2/2/e00219-14) 
 
+<!---
 ## Posts
 <ul>
   {% for post in site.posts %}
@@ -26,3 +27,4 @@ HLAQuant is a pipeline designed to quantify HLA allele specific expression from 
     </li>
   {% endfor %}
 </ul>
+--->
