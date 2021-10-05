@@ -3,13 +3,13 @@ layout: default
 is_contact: true
 ---
 
-* Email: [austincrinklaw@gmail.com](mailto:austincrinklaw@gmail.com)
+* Email: [dsantosusn@gmail.com](mailto:dsantosusn@gmail.com)
 
-* Discord: valgrind#3065
+* Discord: dirty#1989
 
 ---
 
 ## Social
 
-1. [Twitter](https://twitter.com/austincrinklaw)
-2. [Linkedin](https://www.linkedin.com/in/acrinklaw/)
+1. [Twitter](https://twitter.com/DSantosUSN)
+2. [Linkedin](https://www.linkedin.com/in/)
