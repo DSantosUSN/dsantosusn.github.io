@@ -1,5 +1,5 @@
-title: Austin Crinklaw
-url: "https://crinklaw.me"
+otitle: Devon Ray Santos
+url: "https://dsantos.me"
 baseurl: ""
 
 remote_theme: ankitsultana/researcher@gem
@@ -10,7 +10,7 @@ markdown: kramdown
 tracking_id: #
 
 footer: yes
-footer_url: "https://github.com/acrinklaw"
+footer_url: "https://github.com/DSantosUSN"
 
 sass:
     style: compressed
