@@ -7,6 +7,10 @@ is_contact: true
 
 * Discord: Dirty#1989
 
+* Activision ID: Dirty#6434647
+
+* Destiny 2: Dirty#6591
+
 ---
 
 ## Social
