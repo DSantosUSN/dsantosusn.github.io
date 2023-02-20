@@ -15,6 +15,5 @@ is_contact: true
 
 ## Social
 
-1. [Twitter](https://twitter.com/DSantosUSN)
-2. [Linkedin](https://www.linkedin.com/in/devonsantos33/)
-3. [Instagram](https://www.instagram.com/doctor_santos/)
+1. [Linkedin](https://www.linkedin.com/in/devonsantos33/)
+2. [Instagram](https://www.instagram.com/doctor_santos/)
